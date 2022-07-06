@@ -1,0 +1,75 @@
+{"intents":[
+    
+{"tag": "greetings",
+    "patterns":["Hello","hey","Hey","hi","hii","good morning","good afternoon","good evening","greeting","what's up","how is it going?"],
+    "responses":["Hello!","Hey!","What can I do for you?"]
+},
+{"tag": "goodbye",
+    "patterns":["bye","see you later","good bye","I am Leaving","Have a Good day","see ya"],
+    "responses":["Sad to see you go :(","Okay bye take Care :)","Talk to you later","Goodbye!"]
+},
+{"tag": "creator age",
+    "patterns":["how old is Priyansh?","how old is your creator?"],
+    "responses":["My owner Priyansh is 21 years old!","21 years!"]
+},
+{"tag": "name",
+    "patterns":["What is your name?","What should i call you?","what's your name?","Who are you?","Can you tell me your name?"],
+    "responses":["I'm Siri!","You can call me Siri!","I'm Siri the assistant of this website!"]
+},
+{"tag": "your age",
+    "patterns":["how old","how old is Siri?","what is your age?","How old are you?","age?"],
+    "responses":["I'm 2 months old :))","2 months!"]
+},
+{"tag": "bot",
+    "patterns":["how are you?"],
+    "responses":["I'm good what about you?"]
+},
+{"tag": "response",
+    "patterns":["i love you","i love you siri","i love you so much"],
+    "responses":["I love you too but as a friend","Thanks!! You're a great human being too"]
+},
+{"tag": "college",
+    "patterns":["which college is this?","what is name of college?","what is the college name?","college name?"],
+    "responses":["Name of the college is Graphic Era Hill University","Graphic Era Hill University"]
+},
+{"tag": "pdhai",
+    "patterns":["which courses are available?"],
+    "responses":["B.Tech,Biotechnology,Commerce,Computer Application"]
+},
+{"tag": "stream",
+    "patterns":["what are the streams available in btech?"],
+    "responses":["COMPUTER SCIENCE,MECHANICAL,ELECTRICAL,CIVIL"]
+},
+{"tag": "dur",
+    "patterns":["what is the duration of courses"],
+    "responses":["Duration of course B.Tech is 4 years, B.Arch is 5 years and others is 3 years. "]
+},
+{"tag": "founder",
+    "patterns":["founder?","Who is the founder of this college?"],
+    "responses":["Prof. (Dr.) Kamal Ghanshala"]
+},
+{"tag": "president",
+    "patterns":["president?","Who is the president of this college?"],
+    "responses":["Prof. (Dr.) Kamal Ghanshala"]
+},
+{"tag": "detailsoffounder",
+    "patterns":["who is Prof. (Dr.) Kamal Ghanshala","who is Kamal Ghanshala","who is Prof. Kamal Ghanshala","who is Prof Kamal Ghanshala"],
+    "responses":["The Founder of the Graphic Era Group and the President of Graphic Era (Deemed to be University) ; He is an engineer with Bachelor's and Master's degree in Computer Science and Engineering. He also holds a Ph.D. in Computer Science and Engineering."]
+},
+{"tag": "hours",
+    "patterns":["When is the college opened?","what are the working hours?","working hours?"],
+    "responses":["College is opened from Monday-Saturday for 9:00 am - 5:00 pm","Monday-Saturday from 9:00 am-5:00 pm"]
+}, 
+{"tag": "funny",
+    "patterns":["Tell me a joke!","Tell me something funny","Do you know a joke?"],
+    "responses":["Why did the hipster burn his mouth? He drank the coffee before it was cool.","what did the buffalo say when his son left for college? Bison."]
+},
+{"tag": "reply",
+    "patterns":["ok","okay"],
+    "responses":["What more can i do?","Yes"]
+},
+{"tag": "ekaurreply",
+    "patterns":["nothing"],
+    "responses":["Oh! okay"]
+}
+]}
